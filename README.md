@@ -1,6 +1,6 @@
 # Shutdowner-for-Windows
 <p align="center">
-![Dark theme](https://github.com/CodeSame/Shutdowner-for-Windows/blob/main/dark.jpg) 
+<img src="[https://github.com/CodeSame/Shutdowner-for-Windows/blob/main/dark.jpg]" width="520">
 </p>
 This application, written in Python, uses customtkinter and provides a simple and convenient way to control the sleep, shutdown, and lockdown of your computer at a specified time or at a specifically specified time. In addition, the program has a mechanism to pause and continue the countdown timer before shutting down, and supports setting the timer time by scrolling the mouse wheel.
 Advantages:
