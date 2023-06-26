@@ -18,8 +18,6 @@ class Timebox(ctk.CTkFrame):
         self.step_size = step_size
         self.command = command
         self.configure(fg_color=("gray78", "gray28"))  
-        #self.grid_columnconfigure((0, 2), weight=0)  
-        #self.grid_columnconfigure(1, weight=1)  
         self.entry = ctk.CTkEntry(self, width=150, height=150,border_width=0,font=("Arial", 106),justify="center",fg_color=('#dbdbdb', '#2b2b2b'), corner_radius=0,insertwidth=0)
         self.entry.grid(row=0,rowspan=1, column=2, columnspan=2, padx=0, pady=0, sticky="nsew")
         # default value
