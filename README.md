@@ -24,3 +24,5 @@ User Guide:
 - Pause/Resume: Click the Pause button to temporarily stop the timer. Press the Continue button to restart the timer.
 - Change Theme: Select a light or dark theme via the switch
 @Author: CodeSame
+![Dark]([https://github.com/CodeSame/Shutdowner-for-Windows/blob/main/dark.jpg]
+[Light]([/https://github.com/CodeSame/Shutdowner-for-Windows/blob/main/light.jpg]
